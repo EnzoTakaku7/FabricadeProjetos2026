@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+chroma_memory/
+empresa_teste.db
+relatorio_data_discovery.csv
